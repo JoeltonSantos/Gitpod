@@ -25,7 +25,7 @@ Este projeto surgiu da necessidade dos alunos da turma de **Desenvolvimento de A
 
 ### Instalação
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Jtonn/Gitpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](http://gitpod.io/#https://github.com/Jtonn/Cenoura-app)
 
 
 - Fazer o login e autorizar o Gitpod no Github.
